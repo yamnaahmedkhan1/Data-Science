@@ -111,6 +111,82 @@ Train a Linear Regression model.
 Predict insurance charges.
 Evaluate the model using MAE and RMSE.
 
+### Advanced Task Set
+
+## Task 1: Term Deposit Subscription Prediction (Bank Marketing)
+### Objective
+
+Predict whether a bank customer will subscribe to a term deposit based on marketing campaign data.
+
+## Dataset
+
+Bank Marketing Dataset (UCI Machine Learning Repository)
+
+## Workflow
+Data loading and exploration
+Encoding categorical features
+Feature preprocessing
+Model training:
+Logistic Regression
+Random Forest
+Model evaluation:
+Confusion Matrix
+F1 Score
+ROC Curve
+Model interpretability using SHAP (5 sample predictions)
+## Skills Used
+Classification modeling
+Feature encoding
+Explainable AI (SHAP)
+Business insight analysis
+
+## Task 2: Customer Segmentation Using Unsupervised Learning
+### Objective
+
+Group customers based on spending behavior to support targeted marketing strategies.
+
+## Dataset
+
+Mall Customers Dataset
+
+## Workflow
+Exploratory Data Analysis (EDA)
+Feature scaling
+K-Means clustering
+Optimal cluster selection using Elbow Method
+Visualization using:
+PCA
+t-SNE
+Interpretation of customer segments
+## Skills Used
+Unsupervised learning (K-Means)
+Dimensionality reduction (PCA, t-SNE)
+Customer segmentation
+Business strategy development
+
+## Task 3: Energy Consumption Forecasting
+### Objective
+
+Forecast short-term household energy consumption using time-based patterns.
+
+## Dataset
+
+Household Power Consumption Dataset
+
+## Workflow
+Time parsing and resampling
+Feature engineering:
+Hour of day
+Day of week
+Weekend indicator
+Lag features
+Models implemented:
+ARIMA
+Prophet
+XGBoost
+
+
+
 ## Author
 
 Yamna Ahmed
